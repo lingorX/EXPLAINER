@@ -1,0 +1,1 @@
+bash ./tools/dist_train.sh configs/_pattern_/swin-tiny_8xb128_in1k.py 4
